@@ -1,1 +1,0 @@
-mongodb+srv://hungerpangs_db_user:hungerpangs_dbpwd@clusterhp.wy4gzah.mongodb.net/?appName=ClusterHP
